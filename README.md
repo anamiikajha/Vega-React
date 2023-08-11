@@ -1,6 +1,12 @@
 # Vega React
 - Vega is React app which is used to analyse and manipulate your text.
 - Made using the React js functional components.
+
+# Vega React Preview
+>
+- ![image](https://github.com/anamiikajha/Vega-React/assets/89740849/c09c46ec-66da-4e73-868f-d73c7c537c69)
+>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
